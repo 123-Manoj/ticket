@@ -1,3 +1,4 @@
+
 class ticket
 {
   public static void main(String srgs[])
@@ -8,5 +9,6 @@ class ticket
        child=18*amount/2;
        total=child+adult;
        System.out.println("total"+"="+total);
+       System.out.println(total);
    }
 }
